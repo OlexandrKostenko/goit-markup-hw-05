@@ -599,7 +599,7 @@ ul {
     position: absolute;
     bottom: 0;
     left: 0;
-    transform: translateY(100%);
+    transform: translateY(101%);
     width: 370px;
     height: 294px;
     display: flex;
